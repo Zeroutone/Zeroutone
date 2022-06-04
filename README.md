@@ -1,4 +1,4 @@
-![cityart](https://user-images.githubusercontent.com/63450134/116508361-e22d2880-a85c-11eb-9f50-dd8b825b2516.png)
+
 
 <!--
 **Zeroutone/Zeroutone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
